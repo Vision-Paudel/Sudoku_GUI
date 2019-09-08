@@ -6,7 +6,6 @@ https://github.com/Vision-Paudel/Sudoku - Now Upgraded with GUI!
 Command Line Argument: ``Java -jar Sudoku_GUI.jar``
 
 ---
-(VER 1.2)
 Upgraded with features:
 
 New Puzzle creates a new easily solvable puzzle.
