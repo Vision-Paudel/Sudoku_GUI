@@ -5,9 +5,15 @@ https://github.com/Vision-Paudel/Sudoku - Now Upgraded with GUI!
 
 Command Line Argument: ``Java -jar Sudoku_GUI.jar``
 
-
+---
 Console is used to display additional information while running program.
+
 New Puzzle creates a new easy solvable puzzle.
 
+Open Puzzle is used to load puzzle from file.
 
-Sample files are included for reference.
+Solve solves the puzzle and displays it.
+
+Solve and save solves the puzzle, displays it and saves the solved puzzle in a normal format and another well formatted for displaying purposes.
+
+Console is used to display additional information while running program and sample files are included in the repository for reference.
