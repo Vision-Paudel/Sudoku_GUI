@@ -1,4 +1,4 @@
-# Sudoku_GUI
+# Sudoku_GUI 1.2
 Solves Standard Sudoku Puzzles! 
 
 https://github.com/Vision-Paudel/Sudoku - Now Upgraded with GUI!
